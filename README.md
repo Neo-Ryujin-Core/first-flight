@@ -27,4 +27,4 @@ Detailed findings and Proofs of Concept:
 
 `santa-list/report.md`
 
-```Note: This is an independent educational security review and is not an official Cyfrin audit.```
+> Note: This is an independent educational security review and is not an official Cyfrin audit.
